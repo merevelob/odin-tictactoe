@@ -1,2 +1,2 @@
 # odin-tictactoe
-The Odin Project | JavaScript | Project: Tic Tac Toe
+The Odin Project | Full Stack JavaScript | JavaScript | Project: Tic Tac Toe
